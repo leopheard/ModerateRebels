@@ -10,7 +10,6 @@ To install this addon, either use the Kodi Github installer addon or save the .z
 #PRPN
 #PopularResistance
 
-<a href="https://moderaterebels.com/">Moderate Rebels</a><br>.
-<a href="https://popularresistance.org/prpn/">Popular Resistance Podcast Network</a><br>.
-
+<a href="https://moderaterebels.com/">Moderate Rebels</a><br>
+<a href="https://popularresistance.org/prpn/">Popular Resistance Podcast Network</a><br>
 <a href="https://popularresistance.org/prpn/"><img src="https://popularresistance-uploads.s3.amazonaws.com/uploads/2018/09/screen-shot-2018-09-25-at-1.34.39-pm.png">
